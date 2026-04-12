@@ -1,0 +1,12 @@
+.squares-canvas {
+  position: absolute;
+  top: 0;
+  background: #030406 ;
+}
+.squares-canvas {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+
