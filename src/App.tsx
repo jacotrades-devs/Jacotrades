@@ -18,7 +18,7 @@ function App() {
       <HeroSection /> {/* 🔹 Squares will be rendered here */}
       <About />
       <Services />
-      <Team/>
+      {/* <Team/> */}
       {/* <Portfolio /> */}
       <Projects/>
       <Contact />
