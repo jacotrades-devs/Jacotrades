@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import HeroSection from "./Pages/HeroSection";
 import About from "./Pages/About";
 import Services from "./Pages/Services";
-import Team from "./Pages/Team";
+// import Team from "./Pages/Team";
 // import Portfolio from "./Pages/Portfolio";
 import Projects from "./Pages/Projects";
 import Contact from "./Pages/Contact";
